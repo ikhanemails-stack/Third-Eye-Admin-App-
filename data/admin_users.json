@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2026-07-21T08:36:02.275Z",
+    "updatedAt": "2026-07-21T08:36:02.275Z",
+    "name": "Third Eye Admin",
+    "username": "admin",
+    "passwordHash": "$2a$10$MJhy5QB2L7w5JiI4/SbC7edm36S35OhB76/ptMMqV/BcJHhXu2HSK"
+  }
+]
